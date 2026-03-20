@@ -8,12 +8,12 @@
 - search 부분에서 음식 검색 기능 가능
  
 ### 사용 기술
-React-Native
-JavaScript / TypeScript
-React Navigation
+- React-Native
+- JavaScript / TypeScript
+- React Navigation
 
 ### 프로젝트 목적
-각 나라의 대표음식을 알리고 해당 레시피를 통해
+각 나라의 대표음식들을 알리고 해당 레시피를 통해
 직접 사용자가 체험할 수 있도록
 
 ### 프로젝트 주소
