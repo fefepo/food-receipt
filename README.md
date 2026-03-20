@@ -8,8 +8,8 @@
 - search 부분에서 음식 검색 기능 가능
  
 ### 사용 기술
-React-Native,
-JavaScript / TypeScript,
+React-Native
+JavaScript / TypeScript
 React Navigation
 
 ### 프로젝트 목적
