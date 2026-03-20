@@ -13,4 +13,4 @@ React-Native를 이용
 직접 사용자가 체험할 수 있도록
 
 ### 프로젝트 주소
-url - snack.expo.dev/@no15sunga/project2
+url - [snack.expo.dev/@no15sunga/project2](https://snack.expo.dev/@no15sunga/project2)
