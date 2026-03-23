@@ -1,7 +1,7 @@
 # 🍽️ Food Recipe App
 
 <p align="center">
-  <b>React Native 기반 국가별 음식 레시피 탐색 앱</b>
+국가별 대표 음식 레시피 앱
 </p>
 
 ---
