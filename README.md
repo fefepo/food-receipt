@@ -2,7 +2,6 @@
 
 <p align="center">
 국가별 대표 음식 레시피 앱
-url - https://snack.expo.dev/@no15sunga/food-receipt-app
 </p>
 
 ---
