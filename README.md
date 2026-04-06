@@ -1,8 +1,6 @@
-# 🍽️ Food Recipe App
+## 🍽️ Food Recipe App
 
-<p align="center">
-국가별 대표 음식 레시피 앱
-</p>
+- 국가별 대표 음식 레시피 앱
 ---
 
 ## Demo
