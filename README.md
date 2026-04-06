@@ -1,9 +1,12 @@
 # 🍽️ Food Recipe App
 
 <p align="center">
-- 국가별 대표 음식 레시피 앱
-- [실행 링크](https://snack.expo.dev/@no15sunga/food-receipt-app)
+국가별 대표 음식 레시피 앱
 </p>
+---
+
+## Demo
+👉 [프로젝트 실행해보기](https://snack.expo.dev/@no15sunga/food-receipt-app)
 
 ---
 
